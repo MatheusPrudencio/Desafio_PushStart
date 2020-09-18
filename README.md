@@ -1,5 +1,5 @@
 # Projeto_PushStart
-Desafio de programação para uma vaga de estágio na PushStart
+Desafio de programação para uma vaga de estágio na PushStart(https://pushstart.com.br/pt/)
 
 ## Status
 * 90% completo
@@ -28,7 +28,7 @@ O resultado do processamento deve ser uma matriz preenchida com os identificador
 
 Obs: não é necessário exibir o visual como na imagem a cima, basta que o código retorne a matriz conforme mostrado no exemplo de saída do algorítmo.
 
-##Regras
+## Regras
 * O desafio pode ser resolvido em qualquer linguagem de programação
 * O código deve estar disponível no Bitbucket, GitHub ou GitLab
 * O repositório deve incluir instruções para execução do código
@@ -58,9 +58,11 @@ $ npm install
 ## Execute a aplicação
 $ npm run 
 
-## O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
-
+## O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
 Então você ira navegar dentro da aplicação
+
+## Para rodar os testes da aplicação
+$ npm test
 
 ### O resultado final ira aparecer no console do navegador, na próxima versão isso será corigido
 
