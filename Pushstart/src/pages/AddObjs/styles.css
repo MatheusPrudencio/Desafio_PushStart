@@ -1,0 +1,27 @@
+.add-container {
+  width: 90%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+  margin-top: 30px;
+
+  display: flex;
+}
+
+.add-container section.form {
+  width: 100%;
+  max-width: 350px;
+  margin-right: 10px;
+}
+
+.add-container section.form form h1 {
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
+.warning{
+  color: red
+}
+
+
+  
