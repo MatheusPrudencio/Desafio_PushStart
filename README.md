@@ -43,25 +43,22 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Clone este repositório
-$ git clone <https://github.com/MatheusPrudencio/Projeto_PushStart>
+### 1- Clone este repositório
+$ git clone https://github.com/MatheusPrudencio/Desafio_PushStart
 
-## Acesse a pasta do projeto no terminal/cmd
-$ cd pushstart
+### 2- Acesse a pasta do projeto no terminal/cmd
+$  cd Desafio_PushStart/Pushstart
 
-## Vá para a pasta server
-$ cd server
-
-## Instale as dependências
+### 3- Instale as dependências
 $ npm install
 
-## Execute a aplicação
-$ npm run 
+### 4- Execute a aplicação
+$ npm start 
 
-## O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+### 5- O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
 Então você ira navegar dentro da aplicação
 
-## Para rodar os testes da aplicação
+## - Para rodar os testes da aplicação
 $ npm test
 
 ### O resultado final ira aparecer no console do navegador, na próxima versão isso será corigido
